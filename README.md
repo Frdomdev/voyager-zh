@@ -10,3 +10,9 @@
 具体安装过程请看voyagerv 原版地址：https://github.com/the-control-group/voyager
 
 或者安装voyagerv之后用voyagerv-zh覆盖（注意检查版本）
+
+此版本将每个月与官方同步
+
+之后会加入微信功能插件
+
+前端模板，CMS
