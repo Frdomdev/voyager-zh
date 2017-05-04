@@ -16,25 +16,17 @@ return [
     'Sign in below' => '登陆以下',
     'Logging in...' => '登陆中...',
     'The given credentials dont match with an user registered' => '给定的凭据与注册的用户不匹配',
-
-
-
     'dashboard' => '控制台',
     'media' => '媒体',
-
-
-
     'Add New' => '新建',
     'New' => '新建',
     'Cancel' => '取消',
     'View' => '查看',
     'Edit' => '编辑',
     'Delete' => '删除',
-    'Rename' => '改名',
-
-
+    'Rename' => '重命名',
     'Post Title' => '文章标题',
-    'The title for your post' => '这是你的文章标题',
+    'The title for your post' => '文章的标题',
     'Post Content' => '文章内容',
     'Post Details' => '文章详情',
     'URL slug' => 'URL标签',
@@ -50,8 +42,6 @@ return [
     'Excerpt' => '摘要',
     'Small description of this post' => '文章的简短描述',
     'Update Post' => '更新文章',
-
-
     'Name' => '名称',
     'Created At' => '创建者',
     'Email' => '邮箱',
@@ -60,7 +50,7 @@ return [
     'Submit' => '提交',
     'User Role' => '用户角色',
     'Password' => '密码',
-    'Leave empty to keep the same' => '空着会保持原密码',
+    'Leave empty to keep the same' => '如果空着会保持原密码',
     'Create New Folder' => '创建新文件',
     'Add New Folder' => '添加新文件',
     'Upload' => '上传',
@@ -108,7 +98,7 @@ return [
     'Editing' => '编辑',
     'Field Name' => '字段名',
     'DB Type' => '数据类型',
-    'Allow Null?' => '是否为空?',
+    'Allow Null?' => '允许空值?',
     'Default Value' => '默认值',
     'Table Fields' => '表字段',
     'Table Name' => '表名',
@@ -139,7 +129,7 @@ return [
     'Icon (optional) Use a' => '图标（可选）使用',
     'Voyager Font Class' => '字体类。',
     'Model Name' => '模型名称',
-    'if left empty will try and use the table name' => '如果留空将尝试并使用表名',
+    'if left empty will try and use the table name' => '如果留空将默认使用表名',
     'Generate Permissions' => '生成权限',
     'Server-side Pagination' => '服务器端分页',
     'Description' => '描述',
@@ -148,9 +138,6 @@ return [
     'Read' => '读 ',
     'Add' => '添加 ',
     'Browse' => '浏览 ',
-
-
-
     'Builder' => '构建',
     'Actions' => '操作',
     'Settings' => '设置',
@@ -165,10 +152,7 @@ return [
     'Showing' => '显示',
     'entries' => '条目',
     'Required' => '必要',
-
-
-
-    'Drag and drop the menu Items below to re-arrange them' => '拖放下面的菜单项以重新排列它们',
+    'Drag and drop the menu Items below to re-arrange them' => '拖拽下面的菜单项以重新排列它们',
     'New Menu Item' => '新菜单',
     'Create a New Menu Item' => '创建一个新的菜单项',
     'Title of the Menu Item' => '菜单项标题',
@@ -190,5 +174,4 @@ return [
     'Options' => '选项',
     'optional, only applies to certain types like dropdown box or radio button' => '可选的，只适用于某些类型的下拉框或单选按钮一样',
     'Edit My Profile' => '编辑我的简介',
-
 ];

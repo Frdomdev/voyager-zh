@@ -8,3 +8,5 @@
 ![Voyager Screenshot](https://github.com/daimiao/voyager-zh/blob/master/demo/4.png)
 
 具体安装过程请看voyagerv 原版地址：https://github.com/the-control-group/voyager
+
+或者安装voyagerv之后用voyagerv-zh覆盖（注意检查版本）

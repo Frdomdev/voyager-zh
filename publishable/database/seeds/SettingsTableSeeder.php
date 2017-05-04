@@ -17,7 +17,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Site Title',
+                'display_name' => '网站标题',
                 'value'        => 'Site Title',
                 'details'      => '',
                 'type'         => 'text',
@@ -30,7 +30,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Site Description',
+                'display_name' => '网站描述',
                 'value'        => 'Site Description',
                 'details'      => '',
                 'type'         => 'text',
@@ -43,7 +43,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Site Logo',
+                'display_name' => '网站Logo',
                 'value'        => '',
                 'details'      => '',
                 'type'         => 'image',
@@ -56,7 +56,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Admin Background Image',
+                'display_name' => '后台背景图',
                 'value'        => '',
                 'details'      => '',
                 'type'         => 'image',
@@ -69,7 +69,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Admin Title',
+                'display_name' => '后台标题',
                 'value'        => 'Voyager',
                 'details'      => '',
                 'type'         => 'text',
@@ -82,7 +82,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Admin Description',
+                'display_name' => '后台说明',
                 'value'        => 'Welcome to Voyager. The Missing Admin for Laravel',
                 'details'      => '',
                 'type'         => 'text',
@@ -95,7 +95,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Admin Loader',
+                'display_name' => '后台载入图标',
                 'value'        => '',
                 'details'      => '',
                 'type'         => 'image',
@@ -108,7 +108,7 @@ class SettingsTableSeeder extends Seeder
         ]);
         if (!$setting->exists) {
             $setting->fill([
-                'display_name' => 'Admin Icon Image',
+                'display_name' => '后台图标',
                 'value'        => '',
                 'details'      => '',
                 'type'         => 'image',
