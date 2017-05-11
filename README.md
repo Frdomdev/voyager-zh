@@ -16,3 +16,9 @@
 之后会加入微信功能插件
 
 前端模板，CMS
+
+LssCMS 交流群：
+![Voyager Screenshot](https://github.com/daimiao/voyager-zh/blob/master/demo/2.jpg)
+
+微信：
+![Voyager Screenshot](https://github.com/daimiao/voyager-zh/blob/master/demo/5.png)
