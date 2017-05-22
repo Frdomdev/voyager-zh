@@ -1,6 +1,6 @@
 此版本为汉化版，可以扩展为任意语言
 
-在voyagerv0.11.10版本上进行汉化 
+在voyagerv0.11.09版本上进行汉化 
 
 ![Voyager Screenshot](https://github.com/daimiao/voyager-zh/blob/master/demo/1.png)
 ![Voyager Screenshot](https://github.com/daimiao/voyager-zh/blob/master/demo/2.png)
